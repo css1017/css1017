@@ -14,9 +14,9 @@
 
 ## Check out my demo repositories:
 <p align="left"> 
-<a href="https://github.com/css1017/AirTickets" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/fc7315f2-c3ac-4d85-8e72-65437efc8c08" alt="kotlin"/></a>
-<a href="https://github.com/css1017/Star-Wars-Universe" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/cf666392-9dff-4892-8762-f531671f94b9" alt="kotlin"/></a>
-<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/936a0f8a-4fae-46af-8c3f-58c56edb73b9" alt="kotlin"/></a>
+<a href="https://github.com/css1017/AirTickets" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/b3592f9f-8743-462c-a55e-cca0ff95e107" alt="kotlin"/></a>
+<a href="https://github.com/css1017/Star-Wars-Universe" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/1d810ad1-d85b-42d7-884d-61b5dedf3fc4" alt="kotlin"/></a>
+<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/824b727e-f8ab-4d72-ac31-c95be20ae310" alt="kotlin"/></a>
 </p>
 
 
