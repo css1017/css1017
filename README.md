@@ -1,4 +1,4 @@
-## Connect with me: 
+## My links: 
 <p align="left">
 <a href="https://linkedin.com/in/nikita101" target="blank"><img align="center" src="https://github.com/css1017/css1017/assets/119590853/33faf2c4-dda4-469a-94bb-738cee086ba6" alt="nikita101"/></a>&nbsp&nbsp
 <a href="https://instagram.com/datface.jpg" target="blank"><img align="center" src="https://github.com/css1017/css1017/assets/119590853/37cdf9c2-2f7d-4f61-a61c-b5708f2b1de8" alt="datface.jpg"/></a>&nbsp&nbsp
@@ -14,8 +14,12 @@
 
 ## Check out my demo repositories:
 <p align="left"> 
-<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/d38bce18-c9d6-4432-83c2-d0905e25f341" alt="kotlin"/></a>
+<a href="https://github.com/css1017/AirTickets" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/fc7315f2-c3ac-4d85-8e72-65437efc8c08" alt="kotlin"/></a>
+<a href="https://github.com/css1017/Star-Wars-Universe" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/cf666392-9dff-4892-8762-f531671f94b9" alt="kotlin"/></a>
+<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/936a0f8a-4fae-46af-8c3f-58c56edb73b9" alt="kotlin"/></a>
 </p>
+
+
 
 ## Get RTKNet app on Google Play:
 <p align="left"> 
