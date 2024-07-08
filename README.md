@@ -14,14 +14,13 @@
 
 ## Check out my demo repositories:
 <p align="left"> 
-<a href="https://github.com/css1017/AirTickets" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/b3592f9f-8743-462c-a55e-cca0ff95e107" alt="kotlin"/></a>
-<a href="https://github.com/css1017/Star-Wars-Universe" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/1d810ad1-d85b-42d7-884d-61b5dedf3fc4" alt="kotlin"/></a>
-<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/824b727e-f8ab-4d72-ac31-c95be20ae310" alt="kotlin"/></a>
+<a href="https://github.com/css1017/AirTickets" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/b3592f9f-8743-462c-a55e-cca0ff95e107" alt="AirTickets"/></a>
+<a href="https://github.com/css1017/Star-Wars-Universe" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/1d810ad1-d85b-42d7-884d-61b5dedf3fc4" alt="Star-Wars-Universe"/></a>
+<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/824b727e-f8ab-4d72-ac31-c95be20ae310" alt="food-app-xml-demo"/></a>
 </p>
 
 
-
-## Get RTKNet app on Google Play:
+## Check out  RTKNet app:
 <p align="left"> 
-<a href="https://play.google.com/store/apps/details?id=com.css101.rtknet" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/9abf3384-2eb2-4476-840d-7b585d2eb7dd" alt="kotlin"/></a>
+<a href="https://play.google.com/store/apps/details?id=com.css101.rtknet" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/RTKNet-info" alt="RTKNet"/></a>
 </p>
