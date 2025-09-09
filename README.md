@@ -13,14 +13,6 @@
 <a href="https://play.google.com/store/apps/developer?id=css101" target="blank" ><img  src="https://github.com/css1017/css1017/assets/119590853/4b5e9611-991f-4ec2-ac06-92b9ec750589" alt="play"/></a>&nbsp&nbsp
 <a href="https://appgallery.huawei.com/app/C109019187" target="blank"><img  src="https://github.com/css1017/css1017/assets/119590853/75c5d24f-fe2f-41e1-a785-5e5c631f65df" alt="huawei"/></a>&nbsp&nbsp
 <a href="https://firebase.google.com/" target="blank"><img  src="https://github.com/css1017/css1017/assets/119590853/ee7c281a-5afb-4b63-8678-2a4f8aa5113f" alt="firebase"/></a>&nbsp&nbsp
-
-</p>
-
-## Check out my demo repositories:
-<p align="left"> 
-<a href="https://github.com/css1017/AirTickets" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/b3592f9f-8743-462c-a55e-cca0ff95e107" alt="AirTickets"/></a>
-<a href="https://github.com/css1017/Star-Wars-Universe" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/1d810ad1-d85b-42d7-884d-61b5dedf3fc4" alt="Star-Wars-Universe"/></a>
-<a href="https://github.com/css1017/food-app-xml-demo" target="_blank" rel="noreferrer"> <img src="https://github.com/css1017/css1017/assets/119590853/824b727e-f8ab-4d72-ac31-c95be20ae310" alt="food-app-xml-demo"/></a>
 </p>
 
 ## Check out  RTKNet app:
